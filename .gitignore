@@ -1,1 +1,6 @@
 data/
+/crawling/venv/
+*.json
+*.csv
+*.txt 
+*.zip
